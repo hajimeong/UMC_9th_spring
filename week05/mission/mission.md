@@ -1,4 +1,7 @@
 # Week 5
+### 깃허브 링크
+브랜치 이름: Feat/Chapter5 </br>
+[깃허브링크](https://github.com/hajimeong/UMC_Study_Week5/tree/Feat/Chapter5)
 
 ### 1. 리뷰 작성 쿼리
 1. 사용자가 선택한 가게id를 통해 지역id 조회
